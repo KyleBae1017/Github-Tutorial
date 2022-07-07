@@ -16,7 +16,7 @@ git clone [link of this repository]
 ```
 아래 부분에 마음껏 글을 적어 보세요
 
-
+Hello My Name is Bae Min-seong
 
 위 부분에 마음껏 글을 적어 보세요
 ```
